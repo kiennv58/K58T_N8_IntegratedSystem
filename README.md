@@ -1,1 +1,3 @@
-# K58T_N8_IntegratedSystem
+# Bài tập Tích hợp hệ thống - Nhóm 8
+# K58T - UET - VNU
+# 2016
