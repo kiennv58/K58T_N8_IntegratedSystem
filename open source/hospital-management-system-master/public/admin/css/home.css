@@ -1,0 +1,94 @@
+body{
+    margin: 0 auto;
+    font-size: 16px;
+}
+.wraper{
+
+}
+.dau-page{
+    height: 100px;
+    background: #88b77b ;
+}
+.dau-page .logo_uet a{
+    margin-left: 150px;
+    padding-top: 5px;
+    float: left;
+    font-size: 20px;
+    color: cornsilk;
+}
+.dau-page .logo_uet a:hover{
+    text-decoration: none;
+    color: cornsilk;
+}
+.logo_uet img{
+    padding-right: 10px;
+}
+.lienlac{
+    float: right;
+    padding-right: 150px;
+    padding-top: 40px;
+    color: whitesmoke;
+}
+.than-page{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 100px;
+    height: 720px;
+}
+.than-page .trai{
+    width: 40%;
+    float: left;
+    padding-top: 0px;
+    font-size: 50px;
+    color: chocolate;
+}
+.than-page .phai{
+    width: 60%;
+    float: right;
+    margin: 0 auto;
+}
+.dau-form{
+    margin-bottom: 50px;
+    color: red;
+    font-size: 50px;
+}
+.row{
+    margin-top: 15px;
+}
+.cuoi-page{
+    height: 150px;
+    background: #2d2d2d;
+}
+.cuoi-page .logo_uet{
+    margin-right: 150px;
+    padding-top: 15px;
+    float: right;
+    font-size: 20px;
+    color: cornsilk;
+}
+.cuoi-page .logo_uet a:hover{
+    text-decoration: none;
+    color: cornsilk;
+}
+.copyright{
+    width: 40%;
+    margin-left: 150px;
+    padding-top: 20px;
+    color: white;
+    float: left;
+}
+.lienhe{
+    margin-top: 10px;
+}
+.diachilienlac{
+    float: left;
+    color: white;
+    padding-top: 20px;
+}
+.ll{
+    color: orangered;
+    font-size: 24px;
+}
+.line{
+    border: 1px solid cadetblue;
+}
